@@ -1,0 +1,64 @@
+# 🛡️ Cyber Security Full Course  
+
+Welcome to my **Cyber Security Full Course** repository!  
+This project is created to share and learn the fundamentals of cybersecurity — from basic concepts to advanced defensive techniques.  
+
+---
+
+## 📚 Course Contents
+
+### 1. Cybersecurity Fundamentals
+- What is Cybersecurity?
+- CIA Triad (Confidentiality, Integrity, Availability)
+- Common Threats, Vulnerabilities & Risks
+- Security Frameworks (ISO, NIST, etc.)
+
+### 2. Networking Essentials
+- OSI Model & TCP/IP
+- Ports and Protocols (HTTP, HTTPS, FTP, DNS, SSH, SMTP)
+- Subnetting, Routing, Firewalls, NAT
+- Network Monitoring Tools (Wireshark, Nmap)
+
+### 3. Cyber Attacks & Defense
+- Malware Types (Virus, Worm, Trojan, Ransomware)
+- Social Engineering & Phishing
+- DDoS Attacks & Botnets
+- Endpoint Protection & Firewalls
+
+### 4. Ethical Hacking & Penetration Testing
+- Footprinting & Reconnaissance
+- Scanning Networks
+- Gaining Access (Exploits & Payloads)
+- Maintaining Access & Covering Tracks
+
+### 5. Security Tools
+- Kali Linux Basics
+- Metasploit, Burp Suite, Wireshark, Hydra
+- Password Cracking Tools (Hashcat, John the Ripper)
+- Security Automation Basics (Python Scripts)
+
+### 6. Cyber Hygiene & Safe Practices
+- Strong Password Management
+- Multi-Factor Authentication
+- Securing Cloud Accounts (Gmail, GCash, Facebook)
+- Latest Cyber Threats & How to Avoid Them
+
+---
+
+## 📂 Files in this Repository
+| File Name | Description |
+|------------|--------------|
+| `CyberSecurity_Basics.pdf` | Overview of cybersecurity concepts |
+| `Networking_Fundamentals.pdf` | Networking essentials for beginners |
+| `GCash_Security_Tips.pdf` | Protecting your e-wallet from scams |
+| `Ethical_Hacking_Notes.docx` | Step-by-step ethical hacking notes |
+
+
+
+## 🧠 Author
+**Ken Dev **  
+📧 For inquiries or collaborations: [your-email-here Kenjieagbu227@gmail.com]  
+📅 Last updated: November 2025  
+
+> “The more you know about security, the safer the world becomes.”  
+
