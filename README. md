@@ -1,64 +1,99 @@
-# 🛡️ Cyber Security Full Course  
+🛡️ Cyber Security Full Course  
 
-Welcome to my **Cyber Security Full Course** repository!  
-This project is created to share and learn the fundamentals of cybersecurity — from basic concepts to advanced defensive techniques.  
+Welcome to the **Cyber Security Full Course** repository!  
+This project is designed to provide a complete learning path — from **foundational cybersecurity concepts** to **advanced defense and ethical hacking techniques**.  
 
----
-
-## 📚 Course Contents
-
-### 1. Cybersecurity Fundamentals
-- What is Cybersecurity?
-- CIA Triad (Confidentiality, Integrity, Availability)
-- Common Threats, Vulnerabilities & Risks
-- Security Frameworks (ISO, NIST, etc.)
-
-### 2. Networking Essentials
-- OSI Model & TCP/IP
-- Ports and Protocols (HTTP, HTTPS, FTP, DNS, SSH, SMTP)
-- Subnetting, Routing, Firewalls, NAT
-- Network Monitoring Tools (Wireshark, Nmap)
-
-### 3. Cyber Attacks & Defense
-- Malware Types (Virus, Worm, Trojan, Ransomware)
-- Social Engineering & Phishing
-- DDoS Attacks & Botnets
-- Endpoint Protection & Firewalls
-
-### 4. Ethical Hacking & Penetration Testing
-- Footprinting & Reconnaissance
-- Scanning Networks
-- Gaining Access (Exploits & Payloads)
-- Maintaining Access & Covering Tracks
-
-### 5. Security Tools
-- Kali Linux Basics
-- Metasploit, Burp Suite, Wireshark, Hydra
-- Password Cracking Tools (Hashcat, John the Ripper)
-- Security Automation Basics (Python Scripts)
-
-### 6. Cyber Hygiene & Safe Practices
-- Strong Password Management
-- Multi-Factor Authentication
-- Securing Cloud Accounts (Gmail, GCash, Facebook)
-- Latest Cyber Threats & How to Avoid Them
+Whether you're a beginner exploring cybersecurity or an IT professional strengthening your skills, this repository offers structured lessons, explanations, and hands-on examples to help you learn effectively.  
 
 ---
 
-## 📂 Files in this Repository
-| File Name | Description |
-|------------|--------------|
-| `CyberSecurity_Basics.pdf` | Overview of cybersecurity concepts |
-| `Networking_Fundamentals.pdf` | Networking essentials for beginners |
-| `GCash_Security_Tips.pdf` | Protecting your e-wallet from scams |
-| `Ethical_Hacking_Notes.docx` | Step-by-step ethical hacking notes |
+📘 Course Overview  
 
+Cybersecurity is one of the most critical skills in today’s digital world.  
+This repository aims to cover all major domains, including networking, system defense, ethical hacking, digital forensics, and more — explained in a clear and practical way.  
 
+---
 
-## 🧠 Author
-**Ken Dev **  
-📧 For inquiries or collaborations: [your-email-here Kenjieagbu227@gmail.com]  
-📅 Last updated: November 2025  
+📚 Course Contents  
 
-> “The more you know about security, the safer the world becomes.”  
+### I. Cybersecurity Fundamentals  
+- Introduction to Cybersecurity  
+- The **CIA Triad** (Confidentiality, Integrity, Availability)  
+- Common **Threats, Vulnerabilities, and Risks**  
+- **Security Frameworks** (ISO, NIST, CIS, etc.)  
 
+---
+
+ II. Networking Essentials  
+- **OSI Model** & **TCP/IP** Concepts  
+- **Ports and Protocols** (HTTP, HTTPS, FTP, DNS, SSH, SMTP)  
+- **Subnetting, Routing, Firewalls, NAT**  
+- Network Monitoring Tools (**Wireshark**, **Nmap**)  
+
+---
+
+III. Cyber Attacks & Defense  
+- **Malware Types** (Viruses, Worms, Trojans, Ransomware)  
+- **Social Engineering** & **Phishing**  
+- **DDoS Attacks** & **Botnets**  
+- **Endpoint Protection** & **Firewall Configuration**  
+
+---
+
+ IV. Ethical Hacking & Penetration Testing  
+- **Footprinting & Reconnaissance**  
+- **Network Scanning Techniques**  
+- **Exploitation and Payloads**  
+- **Maintaining Access & Covering Tracks**  
+
+---
+
+ V. Security Tools  
+- **Kali Linux Basics**  
+- **Metasploit**, **Burp Suite**, **Wireshark**, **Hydra**  
+- **Password Cracking Tools** (Hashcat, John the Ripper)  
+- **Security Automation** (Python Scripts, Bash Tools)  
+
+---
+
+## 🧠 Learning Goals  
+
+By following this course, you will learn to:  
+✅ Understand the fundamentals of cybersecurity and networking  
+✅ Recognize and mitigate various types of cyber threats  
+✅ Use essential security and ethical hacking tools responsibly  
+✅ Strengthen both personal and organizational defenses  
+✅ Develop a strong foundation for certifications like **CompTIA Security+**, **CEH**, or **CISSP**
+
+---
+ ⚠️ Disclaimer  
+
+> This repository is for **educational purposes only**.  
+> All examples, tools, and scripts should be used **ethically and legally**.  
+> Unauthorized testing or hacking of systems without permission is **strictly prohibited**.
+
+---
+
+ 💻 Contributing  
+
+Contributions are welcome!  
+If you’d like to add more topics, improve explanations, or share practice labs, feel free to:  
+1. Fork this repository  
+2. Create a new branch (`feature/topic-name`)  
+3. Commit your changes  
+4. Submit a Pull Request  
+
+---
+
+## 🌐 Author & Acknowledgments  
+
+Created by ** Ken Dev **  
+Inspired by  cybersecurity professionals worldwide.  
+
+---
+
+> “Cybersecurity is not just about defense — it’s about understanding the system so deeply that you can protect it from every angle.”  
+> — Anonymous
+
+Contact me if you have questions 
+email: xebecrock56@gmail.com
